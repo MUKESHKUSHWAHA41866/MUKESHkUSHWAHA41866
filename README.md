@@ -85,7 +85,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mukesh-kushwaha-79b371227/](https://www.linkedin.com/in/mukesh-kushwaha-79b371227/)
 
-- 📝 I regularly write articles on [rkcoder.tech](rkcoder.tech)
 
 - 📫 How to reach me **singhmukesh41866@gmail.com**
 
